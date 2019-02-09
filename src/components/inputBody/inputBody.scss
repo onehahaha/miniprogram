@@ -1,0 +1,15 @@
+.inputBody{
+  text-align: center;
+  height: 40PX;
+  background: #0096fd;
+  display: flex;
+  justify-content:center;
+  align-items:Center;
+  .input{
+    background: #fff;
+    font-size: 30px;
+    border-radius: 20px;
+    width: 95%;
+    margin: 0 auto;
+  }
+}
