@@ -1,6 +1,2 @@
 # -
-# xqx-miniprogram
-# xqx-miniprogram
-# xqx-miniprogram
-# xqx-miniprogram
-# xqx-miniprogram
+使用react相关的框架编译的小程序
